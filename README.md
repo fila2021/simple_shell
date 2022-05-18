@@ -2,11 +2,6 @@
 ## Description
 Shell is an environment in which we can run our commands, programs, and shell scripts.There are different flavors of a shell,
 just as there are different flavors of operating systems.Each flavor of shell has its own set of recognized commands and functions.
-## FILES
-project is created with:
-* File1:
-* File 2:
-* File 2:
 ## Requirments
 simple_shell is designed to run in the Ubuntu linux environment and to be compiled using the GNU compiler collection v. gcc 4.8.4
 with flags -Wall, -Werror, -Wextra, and -pedantic.
@@ -24,13 +19,6 @@ $ ^D <br />
 ### 2. 
 $ ./hsh <br />
 $ ls -l /tmp <br />
--rw------- 1 username username    0 Dec  5 12:09 config-err-aAMZrR <br />
-drwx------ 3 root   root   4096 Dec  5 12:09 systemd-private-062a0eca7f2a44349733e78cb4abdff4-colord.service-V7DUzr <br />
-drwx------ 3 root   root   4096 Dec  5 12:09 systemd-private-062a0eca7f2a44349733e78cb4abdff4-rtkit-daemon.service-ANGvoV <br />
-drwx------ 3 root   root   4096 Dec  5 12:07 systemd-private-062a0eca7f2a44349733e78cb4abdff4-systemd-timesyncd.service-CdXUtH <br />
--rw-rw-r-- 1 username username    0 Dec  5 12:09 unity_support_test.0 <br />
-$ ^D <br />
-$
 ### 3.
 run the program by executing the follwing command <br />
 $ ./hsh <br />
